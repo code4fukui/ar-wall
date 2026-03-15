@@ -1,6 +1,6 @@
 # ar-wall
 
-Hokusaiの浮世絵「神奈川沖浪裏」をWebブラウザで表示するサンプルプロジェクトです。
+Webブラウザで浮世絵「神奈川沖浪裏」を表示するサンプルプロジェクトです。
 
 ## デモ
 https://code4fukui.github.io/ar-wall/

@@ -1,5 +1,7 @@
 # ar-wall
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A project to display an image of a famous Japanese artwork as an AR wall.
 
 ## Demo
