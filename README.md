@@ -24,4 +24,4 @@ https://code4fukui.github.io/ar-wall/
 The artwork image is from the public domain collection of the Metropolitan Museum of Art.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
